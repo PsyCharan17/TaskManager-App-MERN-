@@ -14,14 +14,15 @@ const notes = [
   },
   {
     _id: "3",
-    title: "Started with Redux",
-    content: "Learnt basics of Redux",
-    category: "Learning",
+    title: "Watched some Anime",
+    content: "Finished 2 seasons of Attack on Titan and My Hero academia.",
+    category: "Entertainment",
   },
   {
     _id: 4,
-    title: "Revisied a few concepts of React JS",
-    content: "Learn about the use cases of useEffect",
+    title: "Started React JS",
+    content:
+      "Made my first App in React JS, feels awesome to learn something new. I aim to be a full stack dev someday",
     category: "Learning",
   },
 ];
